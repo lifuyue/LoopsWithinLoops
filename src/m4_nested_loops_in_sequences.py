@@ -9,9 +9,9 @@ Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
 
 def main():
     """ Calls the other functions to test them. """
-    # run_test_multiply_numbers()
-    # run_test_sum_numbers()
-    # run_test_print_characters()
+    run_test_multiply_numbers()
+    run_test_sum_numbers()
+    run_test_print_characters()
     run_test_print_characters_slanted()
 
 
